@@ -1,8 +1,7 @@
-streamlit
 pandas
-numpy
-plotly
 openpyxl
-scipy
-scikit-learn
-matplotlib
+selenium
+webdriver-manager
+google-api-python-client
+google-auth
+google-auth-httplib2
