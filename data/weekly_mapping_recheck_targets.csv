@@ -1,12 +1,18 @@
 ﻿weekday,weekday_ko,rank,webtoon_title,webtoon_url,webtoon_title_id,collected_at_kst,webtoon_author,adult_or_login_required,author_collect_status,serial_weekday_text,serial_weekdays,weekday_list,series_search_rank,series_title,series_title_raw,series_episode_info,series_total_episode_count,series_completion_status,series_author,series_author_raw,series_url,series_product_no,series_result_text,is_compilation,has_total_episode_info,match_score,match_reason,match_status,selected_rule,checked_candidate_count,series_download_text,series_download_count,download_status,mapping_source,needs_series_recheck
-mon,월,110,청부입학,https://comic.naver.com/webtoon/list?titleId=851688&tab=mon,851688,2026-06-22 11:41:02,강필,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-mon,월,111,유체를 이탈하였습니다,https://comic.naver.com/webtoon/list?titleId=851839&tab=mon,851839,2026-06-22 11:41:02,이슬,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-wed,수,64,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=wed,849862,2026-06-22 11:41:08,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
-thu,목,42,듀오 레벨링,https://comic.naver.com/webtoon/list?titleId=851266&tab=thu,851266,2026-06-22 11:41:11,Karen Buchanan,False,ok,연재,thu,thu,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
-sat,토,55,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=sat,849862,2026-06-22 11:41:24,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
-sat,토,67,정권으로 세계최강,https://comic.naver.com/webtoon/list?titleId=851800&tab=sat,851800,2026-06-22 11:41:24,레블스튜디오,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,95,회귀자의 은퇴 라이프,https://comic.naver.com/webtoon/list?titleId=814509&tab=sat,814509,2026-06-22 11:41:25,서희,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,114,마법사가 죽음을 맞이하는 방법,https://comic.naver.com/webtoon/list?titleId=786269&tab=sat,786269,2026-06-22 11:41:26,박젶,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,90,중사의 드래곤,https://comic.naver.com/webtoon/list?titleId=851032&tab=sun,851032,2026-06-22 11:41:29,워티,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,91,헤이트걸,https://comic.naver.com/webtoon/list?titleId=851934&tab=sun,851934,2026-06-22 11:41:29,나솔,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,105,Mickey x F1 정상을 향한 질주,https://comic.naver.com/webtoon/list?titleId=849113&tab=sun,849113,2026-06-22 11:41:29,Brandon Chen,False,ok,연재,sun,sun,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+mon,월,111,마귀공주,https://comic.naver.com/webtoon/list?titleId=852115&tab=mon,852115,2026-06-29 13:06:04,햄스터빵디,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+mon,월,112,반도대탈출,https://comic.naver.com/webtoon/list?titleId=851869&tab=mon,851869,2026-06-29 13:06:04,카시모프,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,60,대공가의 새아가는 조금 사나워요,https://comic.naver.com/webtoon/list?titleId=851388&tab=tue,851388,2026-06-29 13:06:06,심상,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,70,인그레이브,https://comic.naver.com/webtoon/list?titleId=851854&tab=tue,851854,2026-06-29 13:06:07,도마,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,115,재난은 늘 곁에 있다,https://comic.naver.com/webtoon/list?titleId=827333&tab=tue,827333,2026-06-29 13:06:08,이혜,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+wed,수,86,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=wed,849862,2026-06-29 13:06:10,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+thu,목,22,호수의 백조,https://comic.naver.com/webtoon/list?titleId=851866&tab=thu,851866,2026-06-29 13:06:12,과일차,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+thu,목,80,숨이 차도 괜찮아,https://comic.naver.com/webtoon/list?titleId=850521&tab=thu,850521,2026-06-29 13:06:14,황주영,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+thu,목,102,운명해주세요,https://comic.naver.com/webtoon/list?titleId=835004&tab=thu,835004,2026-06-29 13:06:14,,True,login_or_adult_required,,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,54,연상녀클럽,https://comic.naver.com/webtoon/list?titleId=851476&tab=fri,851476,2026-06-29 13:06:16,한성만,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,82,지옥 최강 마금강,https://comic.naver.com/webtoon/list?titleId=850745&tab=fri,850745,2026-06-29 13:06:17,최봉수,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,114,북설애담,https://comic.naver.com/webtoon/list?titleId=827578&tab=fri,827578,2026-06-29 13:06:18,휘요,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,78,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=sat,849862,2026-06-29 13:06:21,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+sat,토,80,데스루프,https://comic.naver.com/webtoon/list?titleId=852086&tab=sat,852086,2026-06-29 13:06:21,,True,login_or_adult_required,,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,97,결혼 청약 당첨,https://comic.naver.com/webtoon/list?titleId=851265&tab=sat,851265,2026-06-29 13:06:22,권계림,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,54,천도박멸,https://comic.naver.com/webtoon/list?titleId=852078&tab=sun,852078,2026-06-29 13:06:24,와나나,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,107,Mickey x F1 정상을 향한 질주,https://comic.naver.com/webtoon/list?titleId=849113&tab=sun,849113,2026-06-29 13:06:26,Brandon Chen,False,ok,연재,sun,sun,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
