@@ -1,16 +1,16 @@
 ﻿weekday,weekday_ko,rank,webtoon_title,webtoon_url,webtoon_title_id,collected_at_kst,webtoon_author,adult_or_login_required,author_collect_status,serial_weekday_text,serial_weekdays,weekday_list,series_search_rank,series_title,series_title_raw,series_episode_info,series_total_episode_count,series_completion_status,series_author,series_author_raw,series_url,series_product_no,series_result_text,is_compilation,has_total_episode_info,match_score,match_reason,match_status,selected_rule,checked_candidate_count,series_download_text,series_download_count,download_status,mapping_source,needs_series_recheck
-tue,화,81,레벨업! 여신님,https://comic.naver.com/webtoon/list?titleId=852169&tab=tue,852169,2026-07-06 12:42:05,도롱뇽,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-wed,수,85,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=wed,849862,2026-07-06 12:42:08,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
-wed,수,100,아이스크림 소년,https://comic.naver.com/webtoon/list?titleId=834349&tab=wed,834349,2026-07-06 12:42:09,은풀,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-wed,수,105,반짝반짝 작은 눈,https://comic.naver.com/webtoon/list?titleId=772729&tab=wed,772729,2026-07-06 12:42:09,억수씨,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-thu,목,59,대타용사,https://comic.naver.com/webtoon/list?titleId=849541&tab=thu,849541,2026-07-06 12:42:11,밭,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-thu,목,92,김오진과 이상한 동물들,https://comic.naver.com/webtoon/list?titleId=838262&tab=thu,838262,2026-07-06 12:42:12,기선,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-fri,금,79,너를 울린 비밀,https://comic.naver.com/webtoon/list?titleId=851715&tab=fri,851715,2026-07-06 12:42:14,연수,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-fri,금,118,미운오리새끼,https://comic.naver.com/webtoon/list?titleId=839542&tab=fri,839542,2026-07-06 12:42:16,펀지르르,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,79,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=sat,849862,2026-07-06 12:42:18,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
-sat,토,95,쌍둥이에게 아내 자리를 빼앗겼다,https://comic.naver.com/webtoon/list?titleId=852058&tab=sat,852058,2026-07-06 12:42:19,해민,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,104,죽었는데 왜 집착하세요,https://comic.naver.com/webtoon/list?titleId=826529&tab=sat,826529,2026-07-06 12:42:19,미카,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,111,육각,https://comic.naver.com/webtoon/list?titleId=826660&tab=sat,826660,2026-07-06 12:42:19,권라드,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,121,우리집에 온 여우들,https://comic.naver.com/webtoon/list?titleId=837101&tab=sat,837101,2026-07-06 12:42:19,김현,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,87,남들 로판 여주 할 때 나는 장롱 괴물 됨,https://comic.naver.com/webtoon/list?titleId=852333&tab=sun,852333,2026-07-06 12:42:22,굿람,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,107,Mickey x F1 정상을 향한 질주,https://comic.naver.com/webtoon/list?titleId=849113&tab=sun,849113,2026-07-06 12:42:23,Brandon Chen,False,ok,연재,sun,sun,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+mon,월,64,마귀공주,https://comic.naver.com/webtoon/list?titleId=852115&tab=mon,852115,2026-07-13 11:55:47,햄스터빵디,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,89,시냅틱 에러,https://comic.naver.com/webtoon/list?titleId=852168&tab=tue,852168,2026-07-13 11:55:50,연제원,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+wed,수,66,사라지게,https://comic.naver.com/webtoon/list?titleId=852270&tab=wed,852270,2026-07-13 11:55:53,ㅎㅂㅆ,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+wed,수,82,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=wed,849862,2026-07-13 11:55:53,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+wed,수,102,두 번 빼앗긴 남편,https://comic.naver.com/webtoon/list?titleId=839880&tab=wed,839880,2026-07-13 11:55:54,단주,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+thu,목,84,회귀한 천재 헌터의 슬기로운 청소생활,https://comic.naver.com/webtoon/list?titleId=796827&tab=thu,796827,2026-07-13 11:55:57,고일고일,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,45,홍색인간,https://comic.naver.com/webtoon/list?titleId=852170&tab=fri,852170,2026-07-13 11:55:59,퀴니니,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,65,블랙 옵스,https://comic.naver.com/webtoon/list?titleId=852377&tab=sat,852377,2026-07-13 11:56:04,신진우,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,78,찬란한 유산 단편집,https://comic.naver.com/webtoon/list?titleId=849862&tab=sat,849862,2026-07-13 11:56:04,네이버웹툰,False,ok,"수, 토 연재","wed,sat","wed,sat",,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+sat,토,79,세레나,https://comic.naver.com/webtoon/list?titleId=801475&tab=sat,801475,2026-07-13 11:56:04,정이나,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,106,짜장 한 그릇에 제갈세가 데릴사위,https://comic.naver.com/webtoon/list?titleId=822114&tab=sat,822114,2026-07-13 11:56:06,허일,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,41,일타강사 백사부,https://comic.naver.com/webtoon/list?titleId=779632&tab=sun,779632,2026-07-13 11:56:08,사내,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,93,와인의 신,https://comic.naver.com/webtoon/list?titleId=852403&tab=sun,852403,2026-07-13 11:56:09,성혜,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,97,미래의 할 일,https://comic.naver.com/webtoon/list?titleId=852611&tab=sun,852611,2026-07-13 11:56:10,복슬,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,107,Mickey x F1 정상을 향한 질주,https://comic.naver.com/webtoon/list?titleId=849113&tab=sun,849113,2026-07-13 11:56:10,Brandon Chen,False,ok,연재,sun,sun,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
