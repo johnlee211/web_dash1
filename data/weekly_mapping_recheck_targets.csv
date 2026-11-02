@@ -1,19 +1,22 @@
 ﻿weekday,weekday_ko,rank,webtoon_title,webtoon_url,webtoon_title_id,collected_at_kst,webtoon_author,adult_or_login_required,author_collect_status,serial_weekday_text,serial_weekdays,weekday_list,series_search_rank,series_title,series_title_raw,series_episode_info,series_total_episode_count,series_completion_status,series_author,series_author_raw,series_url,series_product_no,series_result_text,is_compilation,has_total_episode_info,match_score,match_reason,match_status,selected_rule,checked_candidate_count,series_download_text,series_download_count,download_status,mapping_source,needs_series_recheck
-tue,화,59,끓는 점,https://comic.naver.com/webtoon/list?titleId=855633&tab=tue,855633,2026-10-26 12:41:46,,True,login_or_adult_required,,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-tue,화,86,포은 : 임고의 별,https://comic.naver.com/webtoon/list?titleId=856243&tab=tue,856243,2026-10-26 12:41:46,무번,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-tue,화,87,몬스터의 인방스타,https://comic.naver.com/webtoon/list?titleId=855923&tab=tue,855923,2026-10-26 12:41:46,턍,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-tue,화,113,청춘 러브썸,https://comic.naver.com/webtoon/list?titleId=828920&tab=tue,828920,2026-10-26 12:41:47,홍덕,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-tue,화,118,렌탈히어로,https://comic.naver.com/webtoon/list?titleId=808804&tab=tue,808804,2026-10-26 12:41:47,포르토,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-wed,수,71,S급 사원으로 오해받는 중입니다,https://comic.naver.com/webtoon/list?titleId=856125&tab=wed,856125,2026-10-26 12:41:48,성혜,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-wed,수,88,이 남자는 수리가 필요합니다,https://comic.naver.com/webtoon/list?titleId=856241&tab=wed,856241,2026-10-26 12:41:49,장채산,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-wed,수,112,완전무결한 공작님께,https://comic.naver.com/webtoon/list?titleId=843888&tab=wed,843888,2026-10-26 12:41:49,솔트,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-thu,목,80,토커,https://comic.naver.com/webtoon/list?titleId=855950&tab=thu,855950,2026-10-26 12:41:51,H8,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-thu,목,87,살아남은 너를 찬미하며,https://comic.naver.com/webtoon/list?titleId=856184&tab=thu,856184,2026-10-26 12:41:51,화음,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-thu,목,112,완벽한 예나,https://comic.naver.com/webtoon/list?titleId=829276&tab=thu,829276,2026-10-26 12:41:52,이겨울,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-thu,목,113,귀신새가 지저귀면,https://comic.naver.com/webtoon/list?titleId=824001&tab=thu,824001,2026-10-26 12:41:52,홍타래,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-fri,금,92,거짓말은 대담하게,https://comic.naver.com/webtoon/list?titleId=856192&tab=fri,856192,2026-10-26 12:41:54,한집,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,96,내가 키운 남주가 집착한다,https://comic.naver.com/webtoon/list?titleId=854610&tab=sat,854610,2026-10-26 12:41:57,문솔,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sat,토,105,상향혼 컨설팅,https://comic.naver.com/webtoon/list?titleId=856441&tab=sat,856441,2026-10-26 12:41:57,매미,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,85,몰락민족의 천재 기사,https://comic.naver.com/webtoon/list?titleId=856208&tab=sun,856208,2026-10-26 12:41:59,차우민,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,107,그날의 순정을 편집하자면,https://comic.naver.com/webtoon/list?titleId=856246&tab=sun,856246,2026-10-26 12:42:00,,True,login_or_adult_required,,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
-sun,일,115,Mickey x F1 정상을 향한 질주,https://comic.naver.com/webtoon/list?titleId=849113&tab=sun,849113,2026-10-26 12:42:00,Brandon Chen,False,ok,연재,sun,sun,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+mon,월,64,첫사랑 트랩,https://comic.naver.com/webtoon/list?titleId=852615&tab=mon,852615,2026-11-02 13:54:02,해서,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+mon,월,66,"그 여자, 그 남자, 또 다른 진심",https://comic.naver.com/webtoon/list?titleId=856744&tab=mon,856744,2026-11-02 13:54:02,네이버웹툰,False,ok,"월, 금 연재","mon,fri","mon,fri",,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+mon,월,68,지팔지꼰 연애록,https://comic.naver.com/webtoon/list?titleId=856116&tab=mon,856116,2026-11-02 13:54:02,읏차,False,ok,연재,mon,mon,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,66,시골 다방에 요괴들이 와요,https://comic.naver.com/webtoon/list?titleId=856212&tab=tue,856212,2026-11-02 13:54:03,맹,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,74,포은 : 임고의 별,https://comic.naver.com/webtoon/list?titleId=856243&tab=tue,856243,2026-11-02 13:54:03,무번,False,ok,연재,tue,tue,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
+tue,화,103,메모리 다이버,https://comic.naver.com/webtoon/list?titleId=856260&tab=tue,856260,2026-11-02 13:54:04,깨구,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+tue,화,120,아랫집 윗집 사이에,https://comic.naver.com/webtoon/list?titleId=834734&tab=tue,834734,2026-11-02 13:54:04,구슬창,False,ok,연재,tue,tue,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+wed,수,34,초월무제,https://comic.naver.com/webtoon/list?titleId=856213&tab=wed,856213,2026-11-02 13:54:04,코울,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+wed,수,65,서리,https://comic.naver.com/webtoon/list?titleId=855720&tab=wed,855720,2026-11-02 13:54:05,김갈대,False,ok,연재,wed,wed,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+thu,목,84,마법사의 수기,https://comic.naver.com/webtoon/list?titleId=856210&tab=thu,856210,2026-11-02 13:54:07,키키,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+thu,목,88,여름의 당도,https://comic.naver.com/webtoon/list?titleId=855178&tab=thu,855178,2026-11-02 13:54:07,모밀,False,ok,연재,thu,thu,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,66,"그 여자, 그 남자, 또 다른 진심",https://comic.naver.com/webtoon/list?titleId=856744&tab=fri,856744,2026-11-02 13:54:09,네이버웹툰,False,ok,"월, 금 연재","mon,fri","mon,fri",,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,86,개복치 공주를 살려라!,https://comic.naver.com/webtoon/list?titleId=856368&tab=fri,856368,2026-11-02 13:54:09,꿀벌,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+fri,금,110,봄그늘,https://comic.naver.com/webtoon/list?titleId=828906&tab=fri,828906,2026-11-02 13:54:10,구슬,False,ok,연재,fri,fri,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,90,운명의 청바지,https://comic.naver.com/webtoon/list?titleId=856758&tab=sat,856758,2026-11-02 13:54:11,만보,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sat,토,111,아사,https://comic.naver.com/webtoon/list?titleId=786496&tab=sat,786496,2026-11-02 13:54:12,우새새,False,ok,연재,sat,sat,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,78,뒷골목 마법사의 회귀생활,https://comic.naver.com/webtoon/list?titleId=841129&tab=sun,841129,2026-11-02 13:54:14,판테라,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,81,여자사람친구,https://comic.naver.com/webtoon/list?titleId=835693&tab=sun,835693,2026-11-02 13:54:14,이상돌,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,90,헐값,https://comic.naver.com/webtoon/list?titleId=856215&tab=sun,856215,2026-11-02 13:54:14,보루,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,97,구운몽 제로,https://comic.naver.com/webtoon/list?titleId=840163&tab=sun,840163,2026-11-02 13:54:14,민송아,False,ok,연재,sun,sun,,,,,,,,,,,,,,,,,,,,,,needs_series_search,True
+sun,일,116,Mickey x F1 정상을 향한 질주,https://comic.naver.com/webtoon/list?titleId=849113&tab=sun,849113,2026-11-02 13:54:15,Brandon Chen,False,ok,연재,sun,sun,,,,,,,,,,,,False,False,0,,no_result,no_result,0,,,no_result,needs_series_search,True
